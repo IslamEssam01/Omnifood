@@ -17,7 +17,7 @@ Omnifood is an AI-powered food subscription service that will make healthy eatin
 
 To run the Omnifood project on your local machine, follow these steps:
 
-1. Clone the repository: `git clone [https://github.com/jonasschmedtmann/omnifood.git](https://github.com/IslamEssam01/Omnifood.git)`
+1. Clone the repository: `git clone https://github.com/IslamEssam01/Omnifood.git`
 2. Navigate to the project directory: `cd omnifood`
 3. Open the project in your preferred code editor.
 4. Launch the `index.html` file in a web browser.
